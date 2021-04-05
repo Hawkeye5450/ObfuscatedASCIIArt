@@ -1,0 +1,2 @@
+C:\Users\Garth\Desktop\obfuscated\Debug\obfuscated.exe
+C:\Users\Garth\Desktop\obfuscated\Debug\obfuscated.pdb
